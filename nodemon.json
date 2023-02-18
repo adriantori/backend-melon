@@ -1,0 +1,7 @@
+{
+    "env": {
+        "DB_USER": "adri",
+        "DB_PASS": "tugasta123",
+        "DB_NAME": "tugasTA"
+    }
+}

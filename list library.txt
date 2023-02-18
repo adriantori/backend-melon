@@ -1,0 +1,11 @@
+express -> expressJS
+body-parser -> parsing form body
+uuid -> unique ID
+express-validator -> validating user input
+mongoose -> easier mongodb handler
+mongoose-unique-validator -> validate "unique" identifier
+multer -> multi-part form data handler
+bcryptjs -> encrypted password generator
+jsonwebtoken -> generate login token
+
+nodemon (dev) -> auto restart node app on change
